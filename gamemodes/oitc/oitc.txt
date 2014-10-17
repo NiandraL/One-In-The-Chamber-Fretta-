@@ -1,0 +1,14 @@
+"oitc"
+{
+	"base"				"minigames"
+	"title"				"One in the Chamber"
+	"menusystem"		"1"
+	"maps"				"cs_"
+
+	"selectable"		"1"
+	"fretta_maps"
+	{
+		"1"	"cs_"
+	}
+}
+
