@@ -1,6 +1,6 @@
 "oitc"
 {
-	"base"				"minigames"
+	"base"				"fretta13"
 	"title"				"One in the Chamber"
 	"menusystem"		"1"
 	"maps"				"cs_"

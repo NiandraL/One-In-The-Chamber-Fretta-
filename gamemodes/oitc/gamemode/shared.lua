@@ -1,6 +1,6 @@
 
 GM.Name 	= "One In The Chamber"
-GM.Author 	= "Adobe Ninja"
+GM.Author 	= "Adobe Ninja (Fixed by Niandra Lades"
 GM.Email 	= "admin@adobeninja.net"
 GM.Website 	= "adobeninja.net"
 
@@ -13,7 +13,7 @@ end
 
 GM.Data = {}
  
-DeriveGamemode( "minigames" )
+DeriveGamemode( "fretta13" )
 IncludePlayerClasses()					// Automatically includes files in "gamemode/player_class"
  
 GM.TeamBased = true					// Team based game or a Free For All game?
